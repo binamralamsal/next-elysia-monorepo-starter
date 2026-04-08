@@ -17,8 +17,8 @@
     "@t3-oss/env-core": "^0.10.1",
     "@types/node": "^20.14.9",
     "bun-types": "^1.1.17",
-    "drizzle-orm": "^0.31.2",
-    "elysia": "^1.0.26",
+    "drizzle-orm": "^0.45.2",
+    "elysia": "^1.4.27",
     "postgres": "^3.4.4",
     "zod": "^3.23.8"
   },
